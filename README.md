@@ -61,7 +61,7 @@ Pues vamos a ponerle, _admin_, por qué no :P, ejecuta: _echo -e "admin/nadmin" 
 
 Ahora si, ya tenemos activado SSH en nuestro rúter y además el usuario es _**root**_ y la contraseña _**admin**._
 
-![](./resources/SSH_ax3600-1.jpg)
+![](./resources/ax3600-1.jpg)
 
 Adicionalmente si quieres enviar algún otro comando usando el exploit stok, puedes usar el siguiente enlace (o hacerlo directamente desde la terminal), añadiendo el código que quieras al final, pero ¡ojo!, tiene un marcado de enlaces de explorador...
 

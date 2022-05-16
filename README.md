@@ -36,6 +36,8 @@ Lo que tenemos que hacer una vez iniciada la sesión será fijarnos en el parám
 
 **En mi caso, el valor stok es: _3719ab425433e074d2bd05345f35944a_**
 
+**Nota: en este punto puedes usar los métodos de bash y javascript simplemente copiando el script y pegándolo en la consola de tu explorador web desde la web principal de rúter (F12 -> Consola)**
+
 A continuación construiremos el exploit en si, usando los siguientes enlaces, **modifica el parámetro <stok>** con el tuyo e introdúcelos uno por uno la barra de direcciones de tu explorador web.
 
 Si todo ha ido bien, verás {"code":0} en el contenido de la web.
